@@ -1,0 +1,2 @@
+# Rock-Paper-Scissors
+This program is a simple Command Line Python Game. The computer asks the user to pick Rock, Paper, or Scissors. Once the user chooses, the computer also selects a choice at random. Both choices are then compared, and a winner is declared! Finally, the computer asks if you want to play again infinitely until the user says no. At which point the game will thank the user for playing and quit.
